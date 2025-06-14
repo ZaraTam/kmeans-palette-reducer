@@ -1,6 +1,6 @@
 # k-means palette reducer
 
-This tool generates different artistic styles by reducing the number of colours in an image using the [**k-means** clustering algorithm](https://en.wikipedia.org/wiki/K-means_clustering). It's useful for creating a simplified colour palette or for image compression.
+This tool generates different artistic styles by reducing the number of colours in an image using the [k-means clustering algorithm](https://en.wikipedia.org/wiki/K-means_clustering). It's useful for creating a simplified colour palette or for image compression.
 
 ---
 
