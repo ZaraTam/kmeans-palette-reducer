@@ -9,17 +9,13 @@ This tool generates different artistic styles by reducing the number of colours 
 1.  **Prerequisites**
 
     * Python 3.6 or higher
-    * The following Python libraries:
-        * scikit-learn (`pip install scikit-learn`)
-        * NumPy (`pip install numpy`)
-        * Pillow (PIL) (`pip install pillow`)
 
 2.  **Installation**
 
-    * Install the required libraries in a virtual environment:
+    * Install dependencies using `requirements.txt` in a virtual environment:
 
         ```bash
-        pip install scikit-learn numpy pillow
+        pip install -r requirements.txt
         ```
 
 3.  **Usage**
