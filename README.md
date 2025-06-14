@@ -24,7 +24,7 @@ This tool generates different artistic styles by reducing the number of colours 
 
 3.  **Usage**
 
-    * Input file: `image.jpg` or rename if needed in the root directory
+    * Input file `image.jpg` is in the root directory
     * Configure `n_colours_to_reduce_to` with the number of colours you want in the reduced palette
     * Output images are saved in `/output_images`
 
